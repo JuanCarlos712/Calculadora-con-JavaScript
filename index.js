@@ -25,12 +25,3 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     });
 });
-
-//Agegar un evento general caragar esto
-
-/*  ..:::TAREA:::..
-..... Sumar los numeros
-..... Agragar evento para cuando este completo el Dom
-..... Mostrar los resultados de la suma
-
-*/
